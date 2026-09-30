@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**solikitsu/solikitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# solikitsu
 
-Here are some ideas to get you started:
+Desenvolvimento web, Python e projetos focados em resolver problemas de forma simples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Sobre
+
+Gosto de transformar ideias em projetos funcionais, trabalhando principalmente com desenvolvimento web e Python.
+
+Tenho interesse em construir aplicações úteis, interfaces simples e ferramentas que realmente possam ser usadas no dia a dia.
+
+Atualmente, estou desenvolvendo projetos para ampliar meu portfólio e aprofundar meus conhecimentos em desenvolvimento de software.
+
+### Tecnologias
+
+`Python` · `FastAPI` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
+
+Também trabalho com ferramentas e bibliotecas como `pytest`, `openpyxl`, `Pydantic` e `Playwright`.
+
+---
+
+### Projetos
+
+**DataFlow**  
+Aplicação para análise, limpeza e exportação de arquivos CSV e XLSX.
+
+O projeto trabalha com processamento de dados, validação de arquivos, tratamento de planilhas e exportação em diferentes formatos.
+
+`Python` `FastAPI` `JavaScript` `HTML` `CSS`
+
+---
+
+### O que estou estudando
+
+- Desenvolvimento backend com Python
+- Criação de APIs
+- Testes automatizados
+- Desenvolvimento web
+- Estruturação de projetos maiores
+
+---
+
+<div align="center">
+
+`solikitsu`
+
+</div>
